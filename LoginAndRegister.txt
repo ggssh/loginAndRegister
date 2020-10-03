@@ -1,0 +1,6 @@
+main 主函数
+mainwindow 初始登录窗口
+new_window 注册窗口
+loginsuccess 登陆成功窗口
+failedtologin 登陆失败窗口
+passwordconfirmfailed 注册时两次密码输入不符
